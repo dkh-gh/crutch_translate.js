@@ -1,3 +1,4 @@
+// https://github.com/dkh-gh/crutch_translate.js
 
 document.addEventListener('DOMContentLoaded', crutch_translate);
 
